@@ -1,0 +1,11 @@
+pasajero-api:
+  listar: http://localhost:8000/api/listar_pasajeros
+  crear: http://localhost:8000/api/crear_pasajero
+
+conductor-api:
+  listar: http://localhost:8000/api/listar_conductores
+  crear: http://localhost:8000/api/crear_conductor
+
+ruta-api:
+  listar: http://localhost:8000/api/listar_rutas
+  crear: http://localhost:8000/api/crear_ruta
